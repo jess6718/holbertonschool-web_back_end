@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Basoc annotated function"""
+"""Basic annotated function"""
 
 
 def concat(str1: str, str2: str) -> str:

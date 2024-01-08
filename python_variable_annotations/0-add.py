@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Basoc annotated function"""
+"""Basic annotated function"""
 
 
 def add(a: float, b: float) -> float:
